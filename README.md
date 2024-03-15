@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandishtau&label=Profile%20views&color=0e75b6&style=flat" alt="mandishtau" /> </p>
 
-- 🌱 I’m currently learning **Solidity and Smart contract development (Truffle Suite,Web3.js)**
+- 🌱 I’m currently learning **Javascript,Solidity and Smart contract development (Truffle Suite,Web3.js)**
 
 - 📝 I regularly write articles on [https://medium.com/@mandiwrites](https://medium.com/@mandiwrites)
 
